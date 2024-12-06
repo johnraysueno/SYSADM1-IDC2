@@ -1,3 +1,4 @@
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/4436b266-80c5-410a-9a23-5fd4f50c89d8">
 
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
@@ -41,9 +42,8 @@
 11. Create a folder named \"LabFiles\" with subfolders for each file
     type. Use the internet for the resources of the files listed below.
 
-> ![](vertopal_cad9b08251e941ae895007d631e04cbb/media/image2.png){width="5.313241469816273in"
-> height="1.375191382327209in"}
->
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/8693724a-e783-4635-a93a-6ebc981123ad">
+
 > **LabFiles**
 
 1.  **Text**
@@ -54,8 +54,8 @@
 
     3.  code.cpp
 
-![](vertopal_cad9b08251e941ae895007d631e04cbb/media/image3.png){width="6.469653324584427in"
-height="1.0730664916885388in"}
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/93690f68-7d9b-4859-93a6-8eba1c337e82">
+
 
 2.  **Images**
 
@@ -65,8 +65,8 @@ height="1.0730664916885388in"}
 
     3.  image3.bmp
 
-![](vertopal_cad9b08251e941ae895007d631e04cbb/media/image4.png){width="6.42798009623797in"
-height="0.9063768591426071in"}
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/910fe262-7c0d-48cc-b57d-a3cc2e6f7e7c">
+
 
 3.  **Audio**
 
@@ -74,38 +74,38 @@ height="0.9063768591426071in"}
 
     2.  speech.wav
 
-![](vertopal_cad9b08251e941ae895007d631e04cbb/media/image5.png){width="6.42798009623797in"
-height="0.6667596237970254in"}
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/3aaa07bd-bf08-4a85-a5eb-84ff5919d22d">
+
 
 4.  **Video**
 
     1.  clip.mp4
 
-![](vertopal_cad9b08251e941ae895007d631e04cbb/media/image6.png){width="6.3029625984251965in"
-height="0.3750524934383202in"}
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/1a02d396-1496-469b-ab4f-8736e9c10f44">
+
 
 12. **Check file properties:** Right-click on the \"info.txt\" file and
     select \"Properties.\" Explore the General, Details, and Security
     tabs to understand file attributes like creation date, size, and
-    ![](vertopal_cad9b08251e941ae895007d631e04cbb/media/image7.png){width="2.9631944444444445in"
-    height="4.15625in"}![](vertopal_cad9b08251e941ae895007d631e04cbb/media/image8.png){width="2.9631944444444445in"
-    height="4.177083333333333in"}read-only status.
+   read-only status.
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/e3749e26-9791-4991-9380-c2b8a9512b04">
 
-13. **Change file attributes:** Try changing the file attributes (e.g.,
+
+14. **Change file attributes:** Try changing the file attributes (e.g.,
     read-only, hidden) using the Properties dialog. Observe the changes
-    in File Explorer.\
-    ![](vertopal_cad9b08251e941ae895007d631e04cbb/media/image9.png){width="3.019083552055993in"
-    height="3.8140244969378827in"}
+    in File Explorer.
+    <img width="611" alt="image" src="https://github.com/user-attachments/assets/8d8ce929-002d-4cbf-bc4c-3145eef8c97d">
 
-14. **Share the folder:** Right-click on the \"Lab1_Windows\" folder,
+
+15. **Share the folder:** Right-click on the \"Lab1_Windows\" folder,
     select \"Properties,\" and then the \"Sharing\" tab. Share the
     folder with a specific user or group, setting appropriate
     permissions (e.g., Read, Write, Full control)
 
-15. **Create an archive:** Use WinRAR or 7-Zip to create a compressed
+16. **Create an archive:** Use WinRAR or 7-Zip to create a compressed
     archive of the \"Lab1_Windows\" folder.
 
-16. **Extract an archive:** Create a new folder, then extract the
+17. **Extract an archive:** Create a new folder, then extract the
     created archive into it.
 
 Part B. Create a log report structure
