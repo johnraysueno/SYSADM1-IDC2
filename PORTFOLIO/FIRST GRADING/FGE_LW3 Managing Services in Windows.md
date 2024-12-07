@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 8a8940c02d5c44938f72891cd7cf40c9 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Sueno_Johnray K.           | DATE PERFORMED:        |          |
-|                                  | 08/29/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 08/292024              |          |
-+----------------------------------+------------------------+----------+
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/89edab74-511d-47e6-a699-494fe761feef">
+
 
 # SYSADM1 -- Managing Services in Windows
 
@@ -36,78 +23,41 @@
 3.  Right-click on a service and select \"Start\", \"Stop\", or
     \"Restart\". Fill out the table below
 
-  ------------------------------------------------------------------------------------------------------------------------
-  **Status**   **Name of     **Screenshot**
-               Service**     
-  ------------ ------------- ---------------------------------------------------------------------------------------------
-  Start        Device        ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image2.png){width="4.798611111111111in"
-               Management    height="1.1291666666666667in"}
-               Enrollment    
-               Services      
+  <img width="475" alt="image" src="https://github.com/user-attachments/assets/65e40327-1013-4803-9079-1a74f65b2e69">
+  <img width="479" alt="image" src="https://github.com/user-attachments/assets/4a43a4be-470b-437d-9930-9593779b5f25">
 
-                             
-
-  Stop         Diagnostic    ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image3.png){width="5.219478346456693in"
-               Policy        height="1.5522998687664042in"}
-               Service       
-
-  Restart      Geolocation   ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image4.png){width="4.798611111111111in"
-               Service       height="1.051388888888889in"}
-
-  Pause        Workstation   ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image5.png){width="4.798611111111111in"
-                             height="0.9284722222222223in"}
-  ------------------------------------------------------------------------------------------------------------------------
 
 4.  Select five network services, right-click to view its properties.
     Modify the startup setting to Manual.
 
 > **SS**:
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Before Modfying**                                                                             **After Modifying**
-  ----------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------
-  ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image6.png){width="3.08209864391951in"      ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image7.png){width="3.120450568678915in"
-  height="3.5245778652668416in"}                                                                  height="3.5827395013123358in"}
+ <img width="475" alt="image" src="https://github.com/user-attachments/assets/e115ce6e-5724-4af9-88f1-f9e10192ce8e">
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/60e3afc9-ee72-419a-84c1-3fad83f75339">
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/92a27c73-6e69-4e11-bdff-aed6911986c9">
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/31eefc9c-c983-4978-a22b-3c3e0cc0613f">
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/29fa3b88-d288-4a79-a864-addf7c64196c">
 
-  ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image8.png){width="3.097645450568679in"     ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image9.png){width="3.2029451006124234in"
-  height="3.5920330271216097in"}                                                                  height="3.66163823272091in"}
-
-  ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image10.png){width="3.1795527121609797in"   ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image11.png){width="3.1754363517060367in"
-  height="3.6699343832021in"}                                                                     height="3.656084864391951in"}
-
-  ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image12.png){width="3.149667541557305in"    ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image13.png){width="3.182928696412948in"
-  height="3.627602799650044in"}                                                                   height="3.6659109798775154in"}
-
-  ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image14.png){width="3.0875in"               ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image15.png){width="3.1326388888888888in"
-  height="3.515277777777778in"}                                                                   height="3.5659722222222223in"}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5.  Explore the \"General\", \"Recovery\", and \"Log On\" tabs to
     understand additional service settings.
 
 > General:
->
-> ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image16.png){width="3.630197944006999in"
-> height="4.1976979440069995in"}
->
-> Log On:\
-> ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image17.png){width="3.5535083114610675in"
-> height="4.075043744531934in"}
->
-> Recovery:\
-> ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image18.png){width="3.4993678915135606in"
-> height="4.001751968503937in"}
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/963b3a03-32b8-4d1c-9728-f33f0a29cc80">
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/61c0f234-1e5e-4a36-b888-94288bb4e4e3">
+<img width="266" alt="image" src="https://github.com/user-attachments/assets/588f4eb3-795f-4643-8f4d-dc1d92529771">
+
 
 6.  Create a batch file that will be added as a new service later on.
     Refer to the batch file code below.
 
-> ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image19.png){width="4.808325678040245in"
-> height="2.0055664916885387in"}
+<img width="352" alt="image" src="https://github.com/user-attachments/assets/c9dd0cc6-6066-4df1-bece-3a14bc50fe4a">
+
 
 7.  Save the batch file in Z:\\lastname_timer.bat
 
-![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image20.png){width="6.863565179352581in"
-height="1.6366185476815398in"}
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/11b57164-ebb4-4866-8a1b-cd5cb7522f79">
+
 
 8.  Use the sc command to add timer.bat service in the command line
     interface.
@@ -120,15 +70,15 @@ height="1.6366185476815398in"}
 > **Replace path_to_your_batch_file.bat with the actual path to your
 > batch file.**
 >
-> ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image21.png){width="6.277083333333334in"
-> height="0.4409722222222222in"}
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/238cfadd-9bfd-4fc6-b6b8-d0cc66a8bdd7">
+
 
 9.  Verify that BatchTimerService has been added to the services.
 
 > **SS:**
 >
-> ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image22.png){width="5.1361329833770775in"
-> height="1.0001399825021873in"}
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/01ace57e-f313-4d5e-a7ea-f6d743dfac7f">
+
 
 10. **Testing the Service:** Now, if you open a new command prompt, you
     should see the timer countdown without requiring your interaction.
@@ -137,8 +87,8 @@ height="1.6366185476815398in"}
 
 > **SS:**
 >
-> ![](vertopal_8a8940c02d5c44938f72891cd7cf40c9/media/image23.png){width="4.354774715660542in"
-> height="2.437840113735783in"}
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/ca690636-5206-4656-afdd-90d9f4f679d3">
+
 
 **Rubric**
 
