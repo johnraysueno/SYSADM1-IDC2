@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| ba66cae8399242d4b8e621cb983443f6 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Sueno, Johnray K.          | DATE PERFORMED:        | /50      |
-|                                  | 10/10/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 10/10/2024             |          |
-+----------------------------------+------------------------+----------+
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/d0aeba23-f864-4573-94a0-a011c43a23f2">
+
 
 # SYSADM1 -- Setting Up Webserver
 
@@ -25,8 +12,8 @@
 1.  Install IIS by adding it as a role, select necessary features,
     include monitoring tools
 
-    ![](vertopal_ba66cae8399242d4b8e621cb983443f6/media/image2.png){width="7.027083333333334in"
-    height="4.970138888888889in"}
+    <img width="608" alt="image" src="https://github.com/user-attachments/assets/dc6d62db-55c7-42ba-a54d-872dfed893d0">
+
 
 2.  Create a website by opening IIS Manager
 
@@ -38,8 +25,8 @@
     -   Enter a name, description, physical path (where your website
         files will reside), IP address, port, and host name.
 
-        ![](vertopal_ba66cae8399242d4b8e621cb983443f6/media/image3.png){width="6.157109580052493in"
-        height="6.021673228346457in"}
+        <img width="610" alt="image" src="https://github.com/user-attachments/assets/eb9b9bff-69cd-4693-abf5-f8469aaf6529">
+
 
 3.  Configure the Website:
 
@@ -55,14 +42,14 @@
 
     -   Create an HTML file in the physical path you specified.
 
-        ![](vertopal_ba66cae8399242d4b8e621cb983443f6/media/image4.png){width="3.652083333333333in"
-        height="1.52377624671916in"}
+       <img width="610" alt="image" src="https://github.com/user-attachments/assets/961595f3-8883-4440-9ff9-696268d210fd">
+
 
     -   Save it as default.html or your preferred name. (name :
         index.html)
 
-        ![](vertopal_ba66cae8399242d4b8e621cb983443f6/media/image5.png){width="6.729166666666667in"
-        height="1.8520833333333333in"}
+       <img width="608" alt="image" src="https://github.com/user-attachments/assets/382b0691-46fc-4ff7-b4d7-20661c1e739d">
+
 
 5.  Test the Web Server:
 
@@ -71,38 +58,7 @@
 
     -   You should see your web page displayed.
 
-        SERVER:
+       <img width="611" alt="image" src="https://github.com/user-attachments/assets/fed653d2-4fdc-4024-bb8c-1142bbd3ecec">
 
-        ![](vertopal_ba66cae8399242d4b8e621cb983443f6/media/image6.png){width="3.5855555555555556in"
-        height="2.459656605424322in"}
 
-        CLIENT:
-
-        ![](vertopal_ba66cae8399242d4b8e621cb983443f6/media/image7.png){width="3.613086176727909in"
-        height="2.183830927384077in"}
-
-        Grading Rubric
-
-  ------------------------------------------------------------------------------
-  **Criteria**      **Points**   **Description**
-  ----------------- ------------ -----------------------------------------------
-  Web Server        15           Correctly installs IIS or another web server on
-  Installation                   the virtual machine.
-
-  Website           15           Successfully configures the website with the
-  Configuration                  correct physical path, IP address, port, and
-                                 default document.
-
-  Successful Access 15           Successfully accesses the web page from the
-                                 client computer using the correct URL.
-
-  Troubleshooting   15           Demonstrates ability to troubleshoot common
-                                 issues, such as network connectivity problems
-                                 or configuration errors.
-
-  Documentation     10           Provides clear and concise documentation of the
-                                 installation, configuration, and testing
-                                 process.
-
-  Total             /70          
-  ------------------------------------------------------------------------------
+       <img width="610" alt="image" src="https://github.com/user-attachments/assets/e521465e-f7da-4986-a487-e5899dacfcfe">
