@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 994815ed689f4b22ac1385d5542332e5 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Sueno, Johnray K.          | DATE PERFORMED:        |          |
-|                                  | 11/05/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 11/05/2024             |          |
-+----------------------------------+------------------------+----------+
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/2acc7454-f1e8-41d9-ab9c-519c9652909a">
+
 
 # SYSADM1 -- Acceptable Use Policy
 
@@ -22,114 +9,16 @@
     with the company\'s profile and addresses its unique requirements by
     providing details to the following sections.
 
-+---------------------+------------------------------------------------+
-| **Acceptable Use    | 1.  Purpose and Scope (Explain the intent of   |
-| Policy (AUP)**      |     the policy, emphasizing that the policy    |
-|                     |     supports TechLease's mission to provide    |
-|                     |     accessible, reliable technology for        |
-|                     |     students and educators.)                   |
-|                     |                                                |
-|                     |     Specify who this policy applies to (all    |
-|                     |     TechLease users, including students and    |
-|                     |     teaching staff renting devices and         |
-|                     |     accessories).                              |
-+=====================+================================================+
-|                     | 2.  General Usage Guidelines                   |
-|                     |                                                |
-|                     | ```{=html}                                     |
-|                     | <!-- -->                                       |
-|                     | ```                                            |
-|                     | 1.  Permitted Uses                             |
-|                     |                                                |
-|                     | 2.  Prohibited Uses                            |
-+---------------------+------------------------------------------------+
-|                     | 3.  Device Care and Maintenance                |
-|                     |                                                |
-|                     |     1.  User Responsibilities                  |
-|                     |                                                |
-|                     |     2.  Prohibited Actions                     |
-|                     |                                                |
-|                     |     3.  Consequences of Neglect                |
-+---------------------+------------------------------------------------+
-|                     | 4.  Data Security and Privacy                  |
-|                     |                                                |
-|                     |     1.  User Data                              |
-|                     |                                                |
-|                     |     2.  Privacy Compliance                     |
-+---------------------+------------------------------------------------+
-|                     | 5.  Penalties for Policy Violations            |
-|                     |                                                |
-|                     |     1.  Consequences                           |
-+---------------------+------------------------------------------------+
-|                     | 6.  Appeal Process (Offer a way to appeal      |
-|                     |     penalties if users believe they were       |
-|                     |     unfairly penalized)                        |
-+---------------------+------------------------------------------------+
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/6d470acd-4ab0-4c71-b344-0de7b45d3ea2">
+
 
 **\*\*\* Attach the commented or checked Organizational Policy draft**
 
 **Grading Rubric**
 
-  ---------------------------------------------------------------------------------------
-  **Criteria**   **Exemplary (10     **Proficient (7    **Developing (4    **Incomplete
-                 pts)**              points)**          points)**          (2 points)**
-  -------------- ------------------- ------------------ ------------------ --------------
-  Purpose and    Clearly defines the Defines the        Partially defines  Missing or
-  Scope          policy's purpose    purpose and scope  the purpose and    fails to
-                 and scope, fully    with minor         scope, with vague  address
-                 aligning with       misalignments to   or limited         purpose and
-                 TechLease's mission TechLease's        connection to      scope.
-                 and goals.          mission or goals.  TechLease's        
-                                                        mission or goals.  
+ <img width="613" alt="image" src="https://github.com/user-attachments/assets/16908973-2faa-4510-b50e-1c26921c741a">
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/5f8ab737-8945-4d13-9545-7e1caa3137ec">
 
-  General Usage  Provides detailed   Lists general      Mentions permitted Missing or
-  Guidelines     permitted and       permitted and      and prohibited     lacks clear
-                 prohibited uses,    prohibited uses    uses but lacks     usage
-                 aligned with        but lacks specific depth or relevance guidelines.
-                 educational and     examples or full   to TechLease's     
-                 acceptable use      alignment with     mission.           
-                 standards for       TechLease's                           
-                 TechLease devices.  educational focus.                    
-
-  Device Care    Clearly outlines    Outlines basic     Lists some         Missing or
-  and            user                responsibilities   responsibilities   unclear
-  Maintenance    responsibilities,   and prohibited     or consequences    expectations
-                 prohibited actions, actions but lacks  but lacks          for device
-                 and consequences    some detail or     thoroughness and   care.
-                 for device misuse,  specificity.       clarity.           
-                 with specific and                                         
-                 practical guidance.                                       
-
-  Data Security  Provides thorough   Includes basic     Mentions data      Missing or
-  and Privacy    guidelines on data  information on     security or        lacks
-                 security, privacy,  data security and  privacy, but       information on
-                 and TechLease's     privacy but lacks  guidelines are     data security.
-                 compliance with     comprehensive      incomplete or      
-                 laws, emphasizing   guidelines.        vague.             
-                 user data                                                 
-                 responsibility.                                           
-
-  Penalties for  Clearly specifies   Lists general      Mentions penalties Missing or
-  Policy         consequences for    penalties but      for violations but lacks
-  Violations     violations and      lacks an appeal    lacks detail or    penalties for
-                 outlines an appeal  process or         clarity on the     violations.
-                 process, with       detailed           appeals process.   
-                 penalties that      consequence                           
-                 align with the      guidelines.                           
-                 severity of misuse.                                       
-
-  Appeal Process Provides a clear,   Includes a basic   Mentions an appeal Missing or
-                 fair, and           appeal process but process but lacks  lacks an
-                 accessible appeal   lacks some detail  clarity or         appeal
-                 process for users   or fairness        specific steps.    process.
-                 to contest          considerations.                       
-                 penalties, with                                           
-                 well-defined steps                                        
-                 for submitting                                            
-                 appeals.                                                  
-
-  **Score:**     /60                                                       
-  ---------------------------------------------------------------------------------------
 
 #### 1. **Purpose and Scope**
 
