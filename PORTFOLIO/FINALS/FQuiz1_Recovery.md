@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 8748d2aa90b44806b49879429438c049 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Sueno, Johnray K.          | DATE PERFORMED:        |          |
-|                                  | 11/21/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 11/21/2024             |          |
-+----------------------------------+------------------------+----------+
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/3da6b17e-e7f5-4f5f-9d7a-f3ac4a765645">
+
 
 **WINDOWS ADMINISTRATIVE TOOLS**
 
