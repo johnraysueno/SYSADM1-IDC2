@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 016e2100973c428a8c4de2eb9cecb2d3 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Sueno, Johnray K.          | DATE PERFROMED:        |          |
-|                                  | 09/12/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 09/12/24               |          |
-+----------------------------------+------------------------+----------+
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/a1c3adfc-b96b-4f24-8083-9904824b4845">
+
 
 # SYSADM1 -- Managing Services in Linux
 
@@ -20,8 +7,8 @@
 
 -   A virtual machine running Linux
 
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image2.png){width="4.135416666666667in"
-height="1.8020833333333333in"}
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/34fd0026-74f5-4cbb-a87d-4b6e2d8bae8b">
+
 
 Complete this lab as follows:
 
@@ -47,60 +34,31 @@ List down active and inactive services in the table below. Provide five
 
 SS:
 
-ACTIVE:
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/c270dcc0-0baa-406c-81ba-c2787805c9c9">
 
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image3.png){width="2.0106977252843397in"
-height="0.21878062117235345in"}
 
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image4.png){width="1.5418821084864391in"
-height="0.2500349956255468in"}
-
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image5.png){width="1.3960279965004374in"
-height="0.2604527559055118in"}
-
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image6.png){width="1.6356452318460193in"
-height="0.19794400699912512in"}
-
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image7.png){width="1.8440069991251093in"
-height="0.2396172353455818in"}
-
-INACIVE:
-
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image8.png){width="1.6356452318460193in"
-height="0.2396172353455818in"}
-
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image9.png){width="1.3231014873140858in"
-height="0.2500349956255468in"}
-
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image10.png){width="1.156411854768154in"
-height="0.2500349956255468in"}
-
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image11.png){width="1.3022648731408575in"
-height="0.2396172353455818in"}
-
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image12.png){width="1.3231014873140858in"
-height="0.21878062117235345in"}
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/0fc807f0-90e5-4ebc-b622-b11ee6072643">
 
 2.  Start the Bluetooth service using the systemctl command.
 
 Ex. sudo systemctl start httpd
 
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image13.png){width="4.359946412948381in"
-height="1.1875in"}
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/24e44b22-6c04-4096-85ef-6c6e0987dcc6">
+
 
 3.  Check the status of the Bluetooth service. What is its status?
 
 SS:
 
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image14.png){width="7.027083333333334in"
-height="2.661111111111111in"}
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/eb69a7ff-643b-4b16-a14b-a41e91bba956">
+
 
 4.  Check the status of the cups services. Since when was it running?
 
 SS:
 
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image15.png){width="7.027083333333334in"
-height="3.4006944444444445in"}
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/33eaa4a7-ff02-4d39-bfe3-947432eb3514">
+
 
 5.  Stop cups services.
 
@@ -108,8 +66,8 @@ height="3.4006944444444445in"}
 
 SS:
 
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image16.png){width="7.027083333333334in"
-height="3.6173611111111112in"}
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/6d8dcfdf-9904-4c35-a659-30752f1bb419">
+
 
 7.  Restart the cups services
 
@@ -117,5 +75,5 @@ height="3.6173611111111112in"}
 
 SS:
 
-![](vertopal_016e2100973c428a8c4de2eb9cecb2d3/media/image17.png){width="7.027083333333334in"
-height="3.5430555555555556in"}
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/d041f880-0d8a-472e-9fef-1134162878c7">
+
