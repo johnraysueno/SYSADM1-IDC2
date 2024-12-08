@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 001f742c175d426fa7d24987faf7cd57 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Sueno, Johnray K.          | DATE PERFORMED:        | /50      |
-|                                  | 09/26/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 09/26/2024             |          |
-+----------------------------------+------------------------+----------+
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/16975eb2-bae8-4c96-902a-a489ea8118d0">
+
 
 # SYSADM1 -- Monitoring Print Services in Windows Server 2019
 
@@ -24,31 +11,31 @@ Part 1: Setting Up Print Services
 
 1.  Install and configure **print.srv** domain
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image2.png){width="3.356848206474191in"
-height="0.7036187664041995in"}
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/0f8d6b05-be37-4aff-ad59-76d02a93a3a6">
+
 
 2.  Connect one client to the recently created domain
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image3.png){width="3.379795494313211in"
-height="1.0197659667541557in"}
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/02b5a233-edac-4370-8da4-96b3e7ec9b3d">
+"}
 
 3.  Install Print Services Role:
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image4.png){width="3.1150185914260717in"
-height="1.791917104111986in"}
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/3f5d3c57-be5a-44a0-873d-0fd96096608f">
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image5.png){width="6.71875in"
-height="1.9590277777777778in"}
+
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/3775b1ef-fb54-44a9-b4c5-0f12c7b04f64">
+
 
 4.  Search the internet for any printer installer and convert it to iso
 
 5.  Install and deploy it as network printer
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image6.png){width="7.027083333333334in"
-height="5.330555555555556in"}
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/27df3901-460d-411b-a762-4c6f54b3fd48">
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image7.png){width="7.027083333333334in"
-height="4.721527777777778in"}
+
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/4d20c064-887d-494a-816e-0a449cfbc929">
+
 
 Part 2: Monitoring Print Services
 
@@ -64,8 +51,8 @@ Windows Server 2019.
 
     -   Review logs for print jobs, errors, and warnings.
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image8.png){width="4.11515748031496in"
-height="0.9688856080489939in"}
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/4372a197-79b4-43c9-a31b-102a198b1db2">
+
 
 2.  Performance Monitor:
 
@@ -77,8 +64,8 @@ height="0.9688856080489939in"}
 
     -   Monitor performance metrics related to print services.
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image9.png){width="7.027083333333334in"
-height="5.15625in"}
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/3a2ba8bb-b9a7-45d8-97d1-578a05cbd6c4">
+
 
 3.  Using Print Management Console:
 
@@ -88,8 +75,8 @@ height="5.15625in"}
 
     -   Use the Printers node to check the status of all printers.
 
-![](vertopal_001f742c175d426fa7d24987faf7cd57/media/image10.png){width="6.646760717410324in"
-height="1.2397561242344708in"}
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/98416888-59bb-4d25-b2e6-9fd663ff3b7f">
+
 
 Part 3: Exploring Third-Party Monitoring Tools
 
